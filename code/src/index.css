@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+body {
+    font-family: 'Josefin Sans', cursive;
+  }
+  
+.nav-link:hover {
+  background-color:white ; 
+  color: black; 
+  border-radius: 20px;
+}
+
