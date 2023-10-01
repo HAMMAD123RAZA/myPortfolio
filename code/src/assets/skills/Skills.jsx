@@ -4,7 +4,7 @@ import 'aos/dist/aos.css';
 import { Grid } from '@mui/material';
 import Content from './Content';
 
-const logo = ['html logo.png', 'css.png', 'Js.jfif', 'react logo.jfif', 'mui.jfif', 'bootstrap.jfif'];
+const logo = ['html logo.png', 'css.png', 'Js.jfif', 'react logo.jfif', 'mui.jfif', 'bootstrap.jfif','mongo image.jfif','express image.webp'];
 
 const Skills = () => {
     useEffect(() => {
